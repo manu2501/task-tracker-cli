@@ -69,8 +69,37 @@ Here are a few steps to help you get started with the Task Tracker CLI project:
 
 ### Project Initialization
 
-- Create a new project directory for your Task Tracker CLI.
-- Initialize a Git repository to manage your project.
+### Pull the Code from GitHub
+
+To get started with the Task Tracker CLI project, you need to clone the repository from GitHub. Follow these steps:
+
+1. **Clone the Repository**:
+   
+   Open your terminal or command prompt and run the following command to clone the repository:
+
+   ```sh
+   git clone https://github.com/manu2501/task-tracker-cli.git
+   ```
+
+2. **Navigate to the Project Directory**:
+
+   Change into the project directory:
+
+   ```sh
+   cd task-tracker-cli
+   ```
+
+3. **Install Dependencies**:
+
+   Ensure all required dependencies are installed. You can use `pip` to install them:
+
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+   This will install all the necessary packages listed in the `requirements.txt` file.
+
+Now you are ready to start working on the Task Tracker CLI project.
 
 ### Implementing Features
 
