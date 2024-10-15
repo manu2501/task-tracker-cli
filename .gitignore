@@ -1,0 +1,9 @@
+# Virtual environment directories
+.venv
+
+# Environment variables files
+.env
+
+# ignore sqllite files
+*.sqlite3
+*.db
